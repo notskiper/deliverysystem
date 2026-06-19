@@ -1,0 +1,45 @@
+2026-06-19 16:30:55,183 | INFO | delivery_system | База данных инициализирована
+2026-06-19 16:38:48,360 | INFO | delivery_system | База данных инициализирована
+2026-06-19 16:40:57,680 | INFO | delivery_system | База данных инициализирована
+2026-06-19 16:43:03,226 | INFO | delivery_system | База данных инициализирована
+2026-06-19 16:44:25,811 | INFO | delivery_system | База данных инициализирована
+2026-06-19 16:44:34,952 | INFO | delivery_system | База данных инициализирована
+2026-06-19 16:44:57,610 | INFO | delivery_system | База данных инициализирована
+2026-06-19 16:44:57,619 | INFO | delivery_system | Создан клиент id=1
+2026-06-19 16:44:57,628 | INFO | delivery_system | Обновлён клиент id=1
+2026-06-19 16:44:57,636 | INFO | delivery_system | Удалён клиент id=1
+2026-06-19 16:44:57,667 | INFO | delivery_system | База данных инициализирована
+2026-06-19 16:44:57,674 | INFO | delivery_system | Создан клиент id=1
+2026-06-19 16:44:57,686 | INFO | delivery_system | Создан заказ id=1
+2026-06-19 16:44:57,710 | INFO | delivery_system | База данных инициализирована
+2026-06-19 16:44:57,717 | INFO | delivery_system | Создан клиент id=1
+2026-06-19 16:44:57,724 | INFO | delivery_system | Создан заказ id=1
+2026-06-19 16:44:57,730 | INFO | delivery_system | Обновлён заказ id=1
+2026-06-19 16:44:57,736 | INFO | delivery_system | Удалён заказ id=1
+2026-06-19 16:44:57,757 | INFO | delivery_system | База данных инициализирована
+2026-06-19 16:44:57,764 | INFO | delivery_system | Создан клиент id=1
+2026-06-19 16:44:57,771 | INFO | delivery_system | Создан клиент id=2
+2026-06-19 16:44:57,778 | INFO | delivery_system | Создан заказ id=1
+2026-06-19 16:44:57,785 | INFO | delivery_system | Создан заказ id=2
+2026-06-19 16:44:57,814 | INFO | delivery_system | База данных инициализирована
+2026-06-19 16:44:57,823 | INFO | delivery_system | Создан клиент id=1
+2026-06-19 16:44:57,832 | INFO | delivery_system | Создан заказ id=1
+2026-06-19 16:44:57,833 | INFO | delivery_system | Экспортировано заказов: 1 в файл C:\Temp\pytest-of-misarry\pytest-3\test_export_json0\orders.json
+2026-06-19 16:44:57,865 | INFO | delivery_system | База данных инициализирована
+2026-06-19 16:44:57,874 | INFO | delivery_system | Создан клиент id=1
+2026-06-19 16:44:57,883 | INFO | delivery_system | Создан заказ id=1
+2026-06-19 16:44:57,883 | INFO | delivery_system | Импортировано заказов: 1 из файла C:\Temp\pytest-of-misarry\pytest-3\test_import_json0\orders.json
+2026-06-19 16:44:57,911 | INFO | delivery_system | База данных инициализирована
+2026-06-19 16:44:57,918 | INFO | delivery_system | Создан клиент id=1
+2026-06-19 16:44:57,925 | INFO | delivery_system | Создан заказ id=1
+2026-06-19 16:44:57,946 | INFO | delivery_system | База данных инициализирована
+2026-06-19 16:44:57,947 | INFO | delivery_system | Экспортировано заказов: 1 в файл C:\Temp\pytest-of-misarry\pytest-3\test_export_and_import_xml0\orders.xml
+2026-06-19 16:44:57,953 | INFO | delivery_system | Создан клиент id=1
+2026-06-19 16:44:57,959 | INFO | delivery_system | Создан заказ id=1
+2026-06-19 16:44:57,959 | INFO | delivery_system | Импортировано заказов: 1 из файла C:\Temp\pytest-of-misarry\pytest-3\test_export_and_import_xml0\orders.xml
+2026-06-19 16:44:57,980 | INFO | delivery_system | База данных инициализирована
+2026-06-19 16:44:57,987 | INFO | delivery_system | Создан клиент id=1
+2026-06-19 16:44:57,994 | INFO | delivery_system | Создан заказ id=1
+2026-06-19 16:45:25,775 | INFO | delivery_system | База данных инициализирована
+2026-06-19 16:48:44,109 | INFO | delivery_system | База данных инициализирована
+2026-06-19 16:53:39,680 | INFO | delivery_system | База данных инициализирована
